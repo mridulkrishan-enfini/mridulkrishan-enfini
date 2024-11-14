@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mridul Krishan
 - 👀 I’m interested in the position of CTO
-- 🌱 I’m currently learning elixer, Rust, java, React
+- 🌱 I’m currently learning elixer, Rust, java, React basically everything
 - 💞️ I’m looking to collaborate on everything I can 
 - 📫 How to reach me just don't
 - ⚡ Fun fact: Very good with joke .. so good made one of my life
